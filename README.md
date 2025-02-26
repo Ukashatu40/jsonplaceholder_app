@@ -1,4 +1,19 @@
 <<<<<<< HEAD
+# JSONPlaceholder App
+
+## Description
+A simple React app that fetches and displays posts from JSONPlaceholder with search and pagination functionality.
+
+## Features
+- Fetch data from JSONPlaceholder API
+- Display posts in a responsive layout
+- Search by title
+- Pagination
+- Deployed on GitHub Pages
+
+## Installation
+1. Clone the repo:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
